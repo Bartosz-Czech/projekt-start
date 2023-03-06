@@ -1,0 +1,59 @@
+table {
+    color:black;
+    margin: 300px auto;
+    border-collapse:collapse;
+    border: solid 1px black;
+
+}
+
+tr,
+td {
+    width:130px;
+    height: 130px;
+    border: solid 1px red;
+}
+
+
+
+
+.flexcenter {
+
+    display: flex;
+    flex-wrap:  wrap;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.box1 {
+
+    width: 30px;
+    height: 30px;
+    background-color: blue;
+    margin: 5%;
+
+
+}
+
+.boxIN {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    margin: 5%;
+    
+
+}
+
+h1 {
+
+    margin: 65px;
+}
+
+
+h2 {
+margin: 65px;
+
+}
+
+

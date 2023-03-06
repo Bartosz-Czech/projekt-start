@@ -1,0 +1,93 @@
+td, tr {
+border: black 1px solid;
+
+}
+
+table {
+border: black 1px solid;
+
+}
+
+.tytul {
+
+color:green;
+font-family: Arial, Helvetica, sans-serif;
+background-color: black;
+
+}
+
+.box {
+border: 20px red solid;
+color:red;
+
+}
+
+.czorny {
+background-color: black;
+
+}
+
+.box1 {
+    background-color: green;
+    width: 31px;
+    height: 31px;  
+    margin: 1%;  
+}
+
+.box2 {
+    background-color: green;
+    width: 31px;
+    height: 31px;
+    margin: 1%;
+    
+}
+
+.box3 {
+    background-color: red;
+    width: 31px;
+    height: 31px;
+    margin: 1%;
+}
+
+.box4 {
+    background-color: red;
+    width: 31px;
+    height: 31px;
+    margin: 1%;
+}
+
+.to {
+ display:flex;
+ flex-wrap: wrap;
+ width: 66px;
+ height: 66px;
+
+ }
+
+ .okok {
+display:flex;
+flex-wrap: wrap;
+width: 97.5px;
+height: 97.5px;
+ }
+
+ .ok1 {
+background-color: blue;
+width: 31px;
+height: 31px;
+margin:1%; 
+ }
+
+ .ok2 {
+    background-color: blue;
+    width: 31px;
+    height: 31px;
+    margin:1%; 
+    visibility: hidden;
+ }
+
+ .ok3 {
+    background-color: red;
+    width: 31px;
+    height: 31px;
+    margin:1%; }

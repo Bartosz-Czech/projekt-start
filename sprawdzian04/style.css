@@ -1,0 +1,60 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h1 {
+    margin-left: 20px;
+    width: 250px;
+}
+
+
+
+.container {
+display: flex;
+justify-content: center;
+}
+
+.card {
+    width: 50rem;
+    height: 32rem;
+    background-color: white;
+    border-radius: 2rem;
+  }
+
+.cena {
+display: flex;
+width: 100px;
+height: 75px;
+background-color: red;
+color:white;
+border-top-right-radius: 25px;
+border-bottom-left-radius: 25px;
+justify-content: center;
+align-items: center;
+margin-top: 28px;
+
+}
+
+
+p {
+    width: 300px;
+    margin-left: 20px;
+    
+}
+
+
+
+
+
+.image {
+    height: 100%;
+    background-color: white;
+    width: 21rem;
+    height: 16rem;
+    margin-left: 400px;
+    background-size: cover;
+    background-image: url("https://cdn.shopify.com/s/files/1/0549/2523/0298/products/1_a138dce9-a5a8-4708-bdbb-6623695b6f1f_1200x.jpg?v=1636047014");
+  
+    
+}
